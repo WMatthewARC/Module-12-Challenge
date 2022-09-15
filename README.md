@@ -15,4 +15,7 @@ In this assignment, you will build a web application that scrapes various websit
 
 ### MongoDB and Flask Application:
 
+### Building a index: ![flask_setup](https://user-images.githubusercontent.com/30300016/190491686-7cb4bf95-bf6a-464f-b5a0-16cfa8963a6f.JPG)
+
+
 ### Results: :octocat:
