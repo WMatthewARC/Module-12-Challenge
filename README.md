@@ -6,16 +6,16 @@
 ## Mission to Mars
 In this assignment, we will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
 
-### The setup: Jupyter Notebook, imports and drivers
+### The setup: via Jupyter Notebook
 
    ![notebook start](https://user-images.githubusercontent.com/30300016/190522534-01f96fc2-9c8f-4e49-ae56-368f9e4d71e2.JPG)
 
-### Scraping: NASA Mars News
+### Scraping: NASA Mars News https://spaceimages-mars.com/
 
    ![Notebook_Scrapeing](https://user-images.githubusercontent.com/30300016/190522999-a55f355c-740b-41e5-81b8-2c97339aee73.JPG)
 
 
-### MongoDB and Flask Application:
+### Flask Application triggering the Notebook dumping the data in Mongodb:
 
    ![flask_setup](https://user-images.githubusercontent.com/30300016/190523028-9ecbe38b-1cbb-4be4-a00c-4659d330bc75.JPG)
    #### Showing the flask working so far...
@@ -24,9 +24,13 @@ In this assignment, we will build a web application that scrapes various website
    ![flask_result_after_mongo](https://user-images.githubusercontent.com/30300016/190523073-9aa564f5-0976-4a22-acb6-07bed943b560.JPG)
 
 
-### Building the index (HTML site):
+### Building the index (HTML site): A button that triggers the Flask App, exciting the notebook that scrapes a site, dumping data into Mango DB then showcasing that data on said HTML site. Or atlleast I hope it does. 
    ![Index_build](https://user-images.githubusercontent.com/30300016/190523080-34b5573c-5a11-40b5-ad38-52f2c38086e7.JPG)
 
 
-### Results: :octocat:
+### Results: It does... I checked it.
    ![Mars Result Index](https://user-images.githubusercontent.com/30300016/190523084-668a17c4-76ed-40e7-a70e-453716898278.JPG)
+   
+  
+`"WOW... was there an easier way to do this? Surly. But this allow us to flex our newfound skills! ~Thank you for your time."` :octocat:
+                           
