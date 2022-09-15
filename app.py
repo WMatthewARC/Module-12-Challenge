@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, render_template
 from flask_pymongo import PyMongo
 import datetime
 from scrape_mars import scrape
@@ -16,6 +16,13 @@ mongo = PyMongo(app)
 #################################################
 # Flask Routes
 #################################################
+
+@app.route("/")
+def index():
+    # find one document from our mongo db and return it.
+    mars_data = mongo.db.mars_data.find_one()
+    # pass that listing to render_template
+    return render_template("index.html", mars_data=mars_data)
 
 @app.route("/scrape")
 def do_scrape():
