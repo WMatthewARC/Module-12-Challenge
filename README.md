@@ -32,5 +32,5 @@ In this assignment, we will build a web application that scrapes various website
    ![Mars Result Index](https://user-images.githubusercontent.com/30300016/190523084-668a17c4-76ed-40e7-a70e-453716898278.JPG)
    
   
-`"WOW... was there an easier way to do this? Surly. But this allow us to flex our newfound skills! ~Thank you for your time."` :octocat:
+`"WOW... was there an easier way to do this? Surely. But this allow us to flex our newfound skills! ~Thank you for your time."` :octocat:
                            
