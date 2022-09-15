@@ -1,4 +1,4 @@
-# Module-12-Challenge | Web
+# Module-12-Challenge | Web-Scraping-Challenge
 
 :earth_americas::panda_face::earth_asia::snake::earth_africa::leaves::earth_americas::panda_face::earth_asia::snake::earth_africa::leaves:
 
@@ -15,7 +15,7 @@ In this assignment, we will build a web application that scrapes various website
    ![Notebook_Scrapeing](https://user-images.githubusercontent.com/30300016/190522999-a55f355c-740b-41e5-81b8-2c97339aee73.JPG)
 
 
-### Flask Application triggering the Notebook dumping the data in Mongodb:
+### Set up APP: Flask Application triggering the Notebook dumping the data in Mongodb
 
    ![flask_setup](https://user-images.githubusercontent.com/30300016/190523028-9ecbe38b-1cbb-4be4-a00c-4659d330bc75.JPG)
    #### Showing the flask working so far...
@@ -32,5 +32,5 @@ In this assignment, we will build a web application that scrapes various website
    ![Mars Result Index](https://user-images.githubusercontent.com/30300016/190523084-668a17c4-76ed-40e7-a70e-453716898278.JPG)
    
   
-`"WOW... was there an easier way to do this? Surely. But this allow us to flex our newfound skills! ~Thank you for your time."` :octocat:
+`"WOW... was there an easier way to do this? Surely. ~ Thank you for your time in reviewing. ` :octocat:
                            
