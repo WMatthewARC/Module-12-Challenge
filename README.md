@@ -3,11 +3,10 @@
 :earth_americas::panda_face::earth_asia::snake::earth_africa::leaves::earth_americas::panda_face::earth_asia::snake::earth_africa::leaves:
 
 
-## Unit 12 Homework: Mission to Mars
-
+## Mission to Mars
 In this assignment, you will build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
 
-### The Setup: Jupyter Notebook, imports and drivers
+### The setup: Jupyter Notebook, imports and drivers
 
    ![notebook start](https://user-images.githubusercontent.com/30300016/190522534-01f96fc2-9c8f-4e49-ae56-368f9e4d71e2.JPG)
 
