@@ -15,7 +15,7 @@ In this assignment, we will build a web application that scrapes various website
    ![Notebook_Scrapeing](https://user-images.githubusercontent.com/30300016/190522999-a55f355c-740b-41e5-81b8-2c97339aee73.JPG)
 
 
-### Set up the APP: Flask Application triggering the Notebook dumping the data in Mongodb
+### Set up the App: Flask Application triggering the Notebook dumping the data in Mongodb
 
    ![flask_setup](https://user-images.githubusercontent.com/30300016/190523028-9ecbe38b-1cbb-4be4-a00c-4659d330bc75.JPG)
    #### <i> "Showing the flask id working so far..."<i/>
