@@ -24,11 +24,13 @@ In this assignment, we will build a web application that scrapes various website
    ![flask_result_after_mongo](https://user-images.githubusercontent.com/30300016/190523073-9aa564f5-0976-4a22-acb6-07bed943b560.JPG)
 
 
-### Building the HTML site (button and display of results): A button that triggers the Flask App, exciting the notebook that scrapes a site, dumping data into Mango DB then showcasing that data on said HTML site. <i>"Or atlleast I hope it does..."</i> 
+### Building the HTML site (button and display of results): A button that triggers the Flask App, exciting the notebook that scrapes a site, dumping data into Mango DB then showcasing that data on said HTML site. 
+
+<i>"Or atlleast I hope it does..."</i> 
    ![Index_build](https://user-images.githubusercontent.com/30300016/190523080-34b5573c-5a11-40b5-ad38-52f2c38086e7.JPG)
 
 
-##<i>"It does!"</i> 
+##<i>"ANND... It does!"</i> 
 ### Results: Runs with no error while filling assignments deliverables.
    ![Mars Result Index](https://user-images.githubusercontent.com/30300016/190523084-668a17c4-76ed-40e7-a70e-453716898278.JPG)
    
