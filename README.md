@@ -18,22 +18,24 @@ In this assignment, we will build a web application that scrapes various website
 ### Set up the APP: Flask Application triggering the Notebook dumping the data in Mongodb
 
    ![flask_setup](https://user-images.githubusercontent.com/30300016/190523028-9ecbe38b-1cbb-4be4-a00c-4659d330bc75.JPG)
-   #### Showing the flask working so far...
+   #### <i> "Showing the flask id working so far..."<i/>
    ![flask_result](https://user-images.githubusercontent.com/30300016/190523070-2a28329f-0a65-4131-8a72-a6ff36c3951a.JPG)
-   #### Confirming the scrape has happened...
+   #### <i> "Confirming the scrape has happened..." <i/>
    ![flask_result_after_mongo](https://user-images.githubusercontent.com/30300016/190523073-9aa564f5-0976-4a22-acb6-07bed943b560.JPG)
 
 
 ### Building the HTML site (button and display of results): A button that triggers the Flask App, exciting the notebook that scrapes a site, dumping data into Mango DB then showcasing that data on said HTML site. 
 
 <i>"Or atlleast I hope it does..."</i> 
+
    ![Index_build](https://user-images.githubusercontent.com/30300016/190523080-34b5573c-5a11-40b5-ad38-52f2c38086e7.JPG)
 
 
-##<i>"ANND... It does!"</i> 
+### <i>"ANND... It does!"</i> 
+
 ### Results: Runs with no error while filling assignments deliverables.
    ![Mars Result Index](https://user-images.githubusercontent.com/30300016/190523084-668a17c4-76ed-40e7-a70e-453716898278.JPG)
    
   
-`"WOW... was there an easier way to do this? Surely. ~ Thank you for your time in reviewing. ` :octocat:
+`"WOW... was there an easier way to do this? Surely. but~ Thank you for your time reviewing this. ` :octocat:
                            
